@@ -8,3 +8,6 @@ First, I need a way to deploy code to an Azure Virtual Machine when the code is 
 
 #change to run workflow
 
+7/16/2022
+https://docs.microsoft.com/en-us/azure/app-service/deploy-github-actions?tabs=openid
+use this to create service principal for our new app
