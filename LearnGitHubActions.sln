@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnGithubActionsConsole", "LearnGithubActionsConsole\LearnGithubActionsConsole.csproj", "{AB87B8CD-175C-4035-97DC-E99842EAF2D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnGithubActionsConsole", "LearnGithubActionsConsole\LearnGithubActionsConsole.csproj", "{AB87B8CD-175C-4035-97DC-E99842EAF2D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{922D16FB-10CD-4294-B5D7-671140D61B35}"
+	ProjectSection(SolutionItems) = preProject
+		LOG.md = LOG.md
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
